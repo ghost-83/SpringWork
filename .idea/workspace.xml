@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7818bd63-bd18-4faa-9b3c-e80bea34d641" name="Default Changelist" comment="" />
+    <list default="true" id="7818bd63-bd18-4faa-9b3c-e80bea34d641" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/map-jsp.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/leaflet/images/layers-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/leaflet/images/layers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/leaflet/images/marker-icon-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/leaflet/images/marker-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/leaflet/images/marker-shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/leaflet/leaflet-src.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/leaflet/leaflet-src.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/leaflet/leaflet-src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/leaflet/leaflet-src.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/leaflet/leaflet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/leaflet/leaflet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/leaflet/leaflet.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SpringWork/MainServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SpringWork/MainServlet.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +38,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fgfAuoPTJlfI7GBwRP8sOHSuN0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,10 +50,26 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/static" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="SpringWork" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projekt\SpringWork\src\main\webapp\static" />
+      <recent name="D:\Projekt\SpringWork\src\main\java\webapp\static\js" />
+      <recent name="D:\Projekt\SpringWork\src\main\java\webapp\static\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projekt\SpringWork\src\main\webapp\static\js" />
+      <recent name="D:\Projekt\SpringWork\src\main\webapp\static\css" />
+      <recent name="D:\Projekt\SpringWork\src\main" />
+      <recent name="D:\Projekt\SpringWork\src\main\java\webapp\static\js" />
+      <recent name="D:\Projekt\SpringWork\src\main\java\webapp\static\css" />
     </key>
   </component>
   <component name="RunManager" selected="Maven.SpringWork [jetty:run]">
@@ -100,6 +144,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1596815209164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1596815209164" />
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596646492158">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -112,42 +160,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1596644530983" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1596650811829">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596818263490">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1596650811829" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1596650811829">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1596818263490" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1596826712547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1596650811829" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1596650811829">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1596826712547" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1596826712547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1596650811829" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1596650811829">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1596826712547" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1596826712547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1596650811829" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1596650811664">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1596826712547" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1596826712547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1596650811664" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1596650811664">
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1596826712547" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1596826712547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1596650811664" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1596650811664">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1596826712547" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1596826712547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1596650811664" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1596650811664">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1596826712547" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1596826712547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1596650811664" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1596645744700">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1596826712547" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1596826712547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1596645744700" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1596826712547" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1596819304365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1596819304365" />
     <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1596646392981">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
