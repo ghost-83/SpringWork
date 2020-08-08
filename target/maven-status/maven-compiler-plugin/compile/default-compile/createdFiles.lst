@@ -1,1 +1,5 @@
-SpringWork\MainServlet.class
+SpringWork\repositorys\MapTaskRepository.class
+SpringWork\servlets\MainServlet.class
+SpringWork\controllers\MainController.class
+SpringWork\config\WebAppConfig.class
+SpringWork\models\MapTask.class

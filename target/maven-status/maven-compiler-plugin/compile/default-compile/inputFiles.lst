@@ -1,1 +1,5 @@
-D:\Projekt\SpringWork\src\main\java\SpringWork\MainServlet.java
+D:\Projekt\SpringWork\src\main\java\SpringWork\config\WebAppConfig.java
+D:\Projekt\SpringWork\src\main\java\SpringWork\repositorys\MapTaskRepository.java
+D:\Projekt\SpringWork\src\main\java\SpringWork\controllers\MainController.java
+D:\Projekt\SpringWork\src\main\java\SpringWork\models\MapTask.java
+D:\Projekt\SpringWork\src\main\java\SpringWork\servlets\MainServlet.java
